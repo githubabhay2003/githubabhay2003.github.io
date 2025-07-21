@@ -33,6 +33,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 * #### [Docker Automation Tool](./docker-automation-project.md)
   *A user-friendly Python script that simplifies Docker management on Linux with an interactive command-line menu.*
+
+* #### [LRMAS - Linux Resource Monitoring & Alert System](./lrmas-project.md)
+  *A custom Python service that runs in the background to monitor system resources and send real-time email alerts.*
 ---
 
 ### Certifications
