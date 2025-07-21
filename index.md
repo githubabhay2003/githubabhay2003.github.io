@@ -28,7 +28,8 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * #### [Menu-Based Multi-Technology Automation](./menu-project.md)
   *A versatile, menu-driven command-line tool designed to simplify and automate complex operations across AWS, Linux, Docker, and Kubernetes.*
 
-*More projects coming soon...*
+* #### [Startup: MaidConnect](./maidconnect-project.md)
+  *An end-to-end digital platform including a website and mobile app to connect users with reliable domestic help services.*
 
 ---
 
