@@ -22,7 +22,6 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * **Scripting & Automation:** Python, Bash
 
 ---
-
 ### Projects
 
 * #### [Menu-Based Multi-Technology Automation](./menu-project.md)
@@ -36,6 +35,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 * #### [LRMAS - Linux Resource Monitoring & Alert System](./lrmas-project.md)
   *A custom Python service that runs in the background to monitor system resources and send real-time email alerts.*
+
+* #### [Docker Volume Backup System](./docker-backup-project.md)
+  *A containerized, automated tool to schedule and manage backups for Docker volumes.*
 ---
 
 ### Certifications
