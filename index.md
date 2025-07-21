@@ -30,6 +30,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * #### [Serverless Image Processing Pipeline](./serverless-project.md)
   *An event-driven, serverless pipeline on AWS to automatically process images upon upload.*
 
+* #### [AI Player Tracking with YOLOv8 & DeepSORT](./player-tracking-project.md)
+  *A sophisticated computer vision pipeline that performs real-time player detection and tracking in sports footage.*
+
 * #### [Docker Volume Backup System](./docker-backup-project.md)
   *A containerized, automated tool to schedule and manage backups for Docker volumes.*
 
