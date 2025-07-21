@@ -25,7 +25,10 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 ### Projects
 
-* Coming Soon...
+* #### [Menu-Based Multi-Technology Automation](./menu-project.md)
+  *A versatile, menu-driven command-line tool designed to simplify and automate complex operations across AWS, Linux, Docker, and Kubernetes.*
+
+*More projects coming soon...*
 
 ---
 
