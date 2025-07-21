@@ -24,6 +24,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 ---
 ### Projects
 
+* #### [Automated Book Publication Workflow](./book-pipeline-project.md)
+  *An advanced, AI-driven pipeline using LLMs and a vector DB to automate a book publishing and versioning workflow.*
+
 * #### [Contact Identification API with CI/CD on AWS](./contact-api-project.md)
   *An end-to-end project featuring a Node.js API with a full CI/CD pipeline deploying to a Kubernetes cluster on AWS.*
 
