@@ -38,6 +38,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 * #### [Docker Volume Backup System](./docker-backup-project.md)
   *A containerized, automated tool to schedule and manage backups for Docker volumes.*
+
+* #### [Serverless Image Processing Pipeline](./serverless-project.md)
+  *An event-driven, serverless pipeline on AWS to automatically process images upon upload.*
 ---
 
 ### Certifications
