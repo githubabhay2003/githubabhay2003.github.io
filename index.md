@@ -33,6 +33,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * #### [AI Player Tracking with YOLOv8 & DeepSORT](./player-tracking-project.md)
   *A sophisticated computer vision pipeline that performs real-time player detection and tracking in sports footage.*
 
+* #### [Binance Mock Trading Bot](./trading-bot-project.md)
+  *A Python CLI application that simulates futures trading and demonstrates clean software architecture and API modeling.*
+
 * #### [Docker Volume Backup System](./docker-backup-project.md)
   *A containerized, automated tool to schedule and manage backups for Docker volumes.*
 
