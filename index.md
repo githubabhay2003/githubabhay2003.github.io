@@ -57,4 +57,6 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 ### Certifications
 
-* Coming Soon...
+*I have earned certifications across Cloud, DevOps, Cybersecurity, and Core Programming. You can view all of my verifiable credentials on the certifications page.*
+
+* **[View All Certifications](./certifications.md)**
