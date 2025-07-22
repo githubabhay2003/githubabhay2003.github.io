@@ -6,12 +6,12 @@
 
 ### Internships & Job Simulations
 
-* [cite_start]**Research Based Summer Industrial Internship** [cite: 18]
-    * [cite_start]*An intensive internship focused on developing a cloud computing platform using AI/ML, DevOps, and Generative AI.* [cite: 24]
-    * **Issued by:** LinuxWorld Informatics Pvt. [cite_start]Ltd. [cite: 18]
-    * [cite_start]**Duration:** June 2024 - August 2024 [cite: 26]
+* **Research Based Summer Industrial Internship**
+    * *An intensive internship focused on developing a cloud computing platform using AI/ML, DevOps, and Generative AI.*
+    * **Issued by:** LinuxWorld Informatics Pvt. Ltd.
+    * **Duration:** June 2024 - August 2024
     * [**View Certificate**](https://drive.google.com/file/d/1gA4VeVxZn4E9C8p422BCvvHTBj-DlpMA/view?usp=sharing)
-      
+
 * **AWS Cloud Internship**
     * **Issued by:** Navodita Infotech
     * **Duration:** June 2025 - July 2025
@@ -22,6 +22,7 @@
     * **Issued by:** Deloitte
     * **Date:** June 2025
     * [**View Certificate**](https://drive.google.com/file/d/1jZKvtkNYKsn4XMHWSF4PQD_3XpwGvyVZ/view?usp=sharing)
+
 ---
 
 ### Cloud & DevOps Platform Training
@@ -53,9 +54,9 @@
     * **Issued by:** LinuxWorld
     * **Date:** September 2024
     * [**View Certificate**](https://drive.google.com/file/d/1s5q24y8veanoILSlK34sktdlQeJOjWRX/view?usp=sharing)
- 
+
 * **Training in Cyber Security**
-    * **Issued by:** AcmeGrade & Mood Indigo, IIT Bombay
+    * **Issued by:** AcmeGride & Mood Indigo, IIT Bombay
     * **Duration:** January 2023 - February 2023
     * [**View Certificate**](https://drive.google.com/file/d/1xsMyJc4F5TMMmAZM_hx2mdkYGCQ9OyJx/view?usp=sharing)
 
@@ -64,17 +65,17 @@
     * **Date:** December 2022
     * [**View Certificate**](https://drive.google.com/file/d/1iXWPaO_KEQQS0BZb9-5zA0xcEWWuT51U/view?usp=sharing)
 
-* [cite_start]**Cybersecurity Essentials** [cite: 39]
-    * [cite_start]*Completed a course covering the principles of confidentiality, integrity, and availability, and the tactics and procedures used by cyber criminals. [cite: 41]*
-    * [cite_start]**Issued by:** Cisco Networking Academy [cite: 35]
-    * [cite_start]**Date:** 12 Aug 2023 [cite: 53]
+* **Cybersecurity Essentials**
+    * *Completed a course covering the principles of confidentiality, integrity, and availability, and the tactics and procedures used by cyber criminals.*
+    * **Issued by:** Cisco Networking Academy
+    * **Date:** 12 Aug 2023
     * [**View Certificate**](https://drive.google.com/file/d/1msUG-8G1UEBSfVV90lNYxJ68d80Bqokp/view?usp=sharing)
 
 * **Networking Essentials**
     * *Completed a course covering network communication, home network building, IPv4/IPv6 principles, and security best practices.*
     * **Issued by:** Cisco Networking Academy
     * **Date:** 18 Aug 2023
-    * [**View Certificate**](https://drive.google.com/file/d/1bpUSVyF22n__JcMWKupw51ULOavLXP7q/view?usp=sharing)
+    * [**View Certificate**](https://drive.google.com/file/d/1ID2_ygD4IovZDBsxtF9hrLsQcVrY7Miw/view?usp=sharing)
 
 * **Introduction to Cybersecurity**
     * *Completed a course covering the global implications of cyber threats, network vulnerabilities, and Cisco's approach to threat detection.*
