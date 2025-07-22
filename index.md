@@ -1,6 +1,6 @@
 # Abhay Kumar Saini
 
-**DevOps Engineer | Cloud Enthusiast | Automation Specialist**
+DevOps Engineer | Cloud Enthusiast | Automation Specialist
 
 [LinkedIn](https://linkedin.com/in/abhay-kumar-saini-571891264) • [GitHub](https://github.com/githubabhay2003) • <abhaykumarsaini484@gmail.com>
 
