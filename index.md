@@ -22,6 +22,7 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * **Scripting & Automation:** Python, Bash
 
 ---
+
 ### Projects
 
 * #### [Automated Book Publication Workflow](./book-pipeline-project.md)
@@ -53,6 +54,7 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 * #### [Startup: MaidConnect](./maidconnect-project.md)
   *An end-to-end digital platform including a website and mobile app to connect users with reliable domestic help services.*
+
 ---
 
 ### Certifications
