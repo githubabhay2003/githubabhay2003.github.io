@@ -31,4 +31,4 @@ As the DevOps engineer for this project, I handled the entire infrastructure, co
 ---
 
 ### 4. Project Links
-* [**View Code & CI/CD Workflow on GitHub**](https://github.com/githubabhay2003/Cloud-backend-Assignment)
+* **[View Code & CI/CD Workflow on GitHub](https://github.com/githubabhay2003/Cloud-backend-Assignment)**
