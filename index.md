@@ -25,35 +25,38 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 ### Projects
 
+* #### [CI/CD Pipeline for Python on AWS EKS](./cicd-app-project.md)
+  *An end-to-end automated pipeline using AWS services, Docker, and Kubernetes to deploy a Python application.*
+
 * #### [Automated Book Publication Workflow](./book-pipeline-project.md)
-  *An advanced, AI-driven pipeline using LLMs and a vector DB to automate a book publishing and versioning workflow.*
+  *An advanced, AI-driven pipeline using LLMs and a vector DB to automate a book publishing and versioning workflow.*
 
 * #### [Contact Identification API with CI/CD on AWS](./contact-api-project.md)
-  *An end-to-end project featuring a Node.js API with a full CI/CD pipeline deploying to a Kubernetes cluster on AWS.*
+  *An end-to-end project featuring a Node.js API with a full CI/CD pipeline deploying to a Kubernetes cluster on AWS.*
 
 * #### [Serverless Image Processing Pipeline](./serverless-project.md)
-  *An event-driven, serverless pipeline on AWS to automatically process images upon upload.*
+  *An event-driven, serverless pipeline on AWS to automatically process images upon upload.*
 
 * #### [AI Player Tracking with YOLOv8 & DeepSORT](./player-tracking-project.md)
-  *A sophisticated computer vision pipeline that performs real-time player detection and tracking in sports footage.*
+  *A sophisticated computer vision pipeline that performs real-time player detection and tracking in sports footage.*
 
 * #### [Binance Mock Trading Bot](./trading-bot-project.md)
-  *A Python CLI application that simulates futures trading and demonstrates clean software architecture and API modeling.*
+  *A Python CLI application that simulates futures trading and demonstrates clean software architecture and API modeling.*
 
 * #### [Docker Volume Backup System](./docker-backup-project.md)
-  *A containerized, automated tool to schedule and manage backups for Docker volumes.*
+  *A containerized, automated tool to schedule and manage backups for Docker volumes.*
 
 * #### [Linux Resource Monitoring & Alert System](./lrmas-project.md)
-  *A custom Python service that runs in the background to monitor system resources and send real-time email alerts.*
+  *A custom Python service that runs in the background to monitor system resources and send real-time email alerts.*
 
 * #### [Menu-Based Multi-Technology Automation](./menu-project.md)
-  *A versatile, menu-driven command-line tool to automate complex operations across AWS, Linux, Docker, and Kubernetes.*
+  *A versatile, menu-driven command-line tool to automate complex operations across AWS, Linux, Docker, and Kubernetes.*
 
 * #### [Docker Automation Tool](./docker-automation-project.md)
-  *A user-friendly Python script that simplifies Docker management on Linux with an interactive command-line menu.*
+  *A user-friendly Python script that simplifies Docker management on Linux with an interactive command-line menu.*
 
 * #### [Startup: MaidConnect](./maidconnect-project.md)
-  *An end-to-end digital platform including a website and mobile app to connect users with reliable domestic help services.*
+  *An end-to-end digital platform including a website and mobile app to connect users with reliable domestic help services.*
 
 ---
 
