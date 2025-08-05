@@ -1,5 +1,5 @@
 Project: End-to-End CI/CD Pipeline for a Python Application on AWS EKS
-
+[ Back to Home](./index.md)
 ---
 
 ### 1. The Goal
@@ -28,4 +28,4 @@ As the architect and developer of this pipeline, I was responsible for designing
 * **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/cicd-app-repo)**
 
 ---
-[<-- Back to Home](./index.md)
+
