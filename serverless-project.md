@@ -31,4 +31,4 @@ As the architect and developer of this pipeline, I was responsible for integrati
 ---
 
 ### 4. Project Links
-* [**View Code & Architecture on GitHub**](https://github.com/githubabhay2003/Serverless-Image-Processing-using-AWS-Services)
+* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/Serverless-Image-Processing-using-AWS-Services)**
