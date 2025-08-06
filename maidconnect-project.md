@@ -29,5 +29,5 @@ As the founder and developer, I was responsible for the end-to-end creation of t
 ---
 
 ### 4. Project Links
-* [**View Code on GitHub**](https://github.com/githubabhay2003/Maid-Connect)
-* [**Visit the Live Website**](http://maidconnect.site)
+* **[View Code on GitHub](https://github.com/githubabhay2003/Maid-Connect)**
+* **[Visit the Live Website](http://maidconnect.site)**
