@@ -31,4 +31,4 @@ As the sole developer, I was responsible for the entire project lifecycle, from 
 ---
 
 ### 4. Project Links
-* [**View Code on GitHub**](https://github.com/githubabhay2003/Menu-based-project)
+* **[View Code on GitHub](https://github.com/githubabhay2003/Menu-based-project)**
