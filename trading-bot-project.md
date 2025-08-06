@@ -29,4 +29,4 @@ As the sole developer, I architected and built the entire application with a foc
 ---
 
 ### 4. Project Links
-* [**View Code on GitHub**](https://github.com/githubabhay2003/binance-mock-trading-bot-assignment)
+* **[View Code on GitHub](https://github.com/githubabhay2003/binance-mock-trading-bot-assignment)**
