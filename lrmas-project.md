@@ -31,4 +31,4 @@ As the sole developer, I engineered this tool from the ground up, focusing on re
 ---
 
 ### 4. Project Links
-* [**View Code on GitHub**](https://github.com/githubabhay2003/linux-resource-monitor)
+* **[View Code on GitHub](https://github.com/githubabhay2003/linux-resource-monitor)**
