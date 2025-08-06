@@ -32,4 +32,4 @@ As the engineer for this project, I was responsible for integrating the entire c
 ---
 
 ### 4. Project Links
-* [**View Code & Models on GitHub**](https://github.com/githubabhay2003/Player-Tracking)
+* **[View Code & Models on GitHub](https://github.com/githubabhay2003/Player-Tracking)**
