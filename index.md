@@ -25,7 +25,7 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 ### Projects
 
-* #### [CI/CD Pipeline for Python on AWS EKS](./cicd-app-project.md)
+* #### [CI/CD Pipeline for Python on AWS EKS](projects/cicd-app-project.md)
   *An end-to-end automated pipeline using AWS services, Docker, and Kubernetes to deploy a Python application.*
 
 * #### [Automated Book Publication Workflow](./book-pipeline-project.md)
