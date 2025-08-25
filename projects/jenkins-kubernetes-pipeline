@@ -1,0 +1,41 @@
+# Project: Automated CI/CD Pipeline for Orchestrated Deployments with Jenkins and Kubernetes
+
+This project showcases an advanced, end-to-end CI/CD pipeline that automates the deployment of a containerized application to a Kubernetes cluster. Evolving from a basic single-container setup, this system leverages Kubernetes to provide scalability, high availability, and resilience, addressing the limitations of traditional deployments.
+
+[Back to Home](../index.md)
+
+---
+
+### 1. The Goal
+
+The primary goal was to build a sophisticated, zero-touch deployment system that transitions from a simple Docker deployment to a modern, orchestrated one. The project focused on automating the entire workflow—from a `git push` to a live, scalable application running on Kubernetes—while identifying and solving common real-world challenges encountered in a cloud environment.
+
+---
+
+### 2. My Role & Contributions
+
+As the sole architect of this pipeline, I was responsible for the entire project lifecycle, including infrastructure setup, tool configuration, and problem resolution.
+
+* **Architecture Design:** I designed a three-stage CI/CD pipeline leveraging a distributed Jenkins master-slave architecture to integrate with a Kubernetes cluster for automated deployments.
+* **Infrastructure Provisioning:** I set up the necessary cloud infrastructure on AWS, including EC2 instances for the Jenkins master and slave nodes, and configured a Kubernetes cluster using Minikube.
+* **CI/CD Pipeline Implementation:** I configured Jenkins jobs to automatically build a Docker image from the source code, tag it with a build number for traceability, and push it to Docker Hub.
+* **Kubernetes Orchestration:** I wrote Kubernetes manifest files to define the application's deployment and created a deployment script that ensures a reliable rolling update by restarting the deployment to bypass image caching issues.
+* **Problem Resolution:** I systematically diagnosed and solved critical real-world challenges, including cloud resource limitations (`t2.micro` vs. `t2.medium`), environment mismatches (Java versions), and complex networking issues to expose the Kubernetes service to the internet.
+
+---
+
+### 3. Technologies Used
+
+* **CI/CD Orchestration:** Jenkins (Master-Slave Architecture)
+* **Containerization:** Docker & Docker Hub
+* **Container Orchestration:** Kubernetes (via Minikube)
+* **Cloud Provider:** Amazon Web Services (AWS)
+* **Source Control:** Git & GitHub
+
+---
+
+### 4. Project Links
+
+* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/k8s-jenkins-project)**
+
+---
