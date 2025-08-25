@@ -34,26 +34,29 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * #### [Contact Identification API with CI/CD on AWS](projects/contact-api-project.md)
   *An end-to-end project featuring a Node.js API with a full CI/CD pipeline deploying to a Kubernetes cluster on AWS.*
 
-* #### [Serverless Image Processing Pipeline](projects/serverless-project.md)
-  *An event-driven, serverless pipeline on AWS to automatically process images upon upload.*
-
 * #### [AI Player Tracking with YOLOv8 & DeepSORT](projects/player-tracking-project.md)
   *A sophisticated computer vision pipeline that performs real-time player detection and tracking in sports footage.*
+
+* #### [Serverless Image Processing Pipeline](projects/serverless-project.md)
+  *An event-driven, serverless pipeline on AWS to automatically process images upon upload.*
 
 * #### [Binance Mock Trading Bot](projects/trading-bot-project.md)
   *A Python CLI application that simulates futures trading and demonstrates clean software architecture and API modeling.*
 
-* #### [Docker Volume Backup System](projects/docker-backup-project.md)
-  *A containerized, automated tool to schedule and manage backups for Docker volumes.*
-
 * #### [Linux Resource Monitoring & Alert System](projects/lrmas-project.md)
   *A custom Python service that runs in the background to monitor system resources and send real-time email alerts.*
 
-* #### [Menu-Based Multi-Technology Automation](projects/menu-project.md)
-  *A versatile, menu-driven command-line tool to automate complex operations across AWS, Linux, Docker, and Kubernetes.*
+* #### [Docker Volume Backup System](projects/docker-backup-project.md)
+  *A containerized, automated tool to schedule and manage backups for Docker volumes.*
 
 * #### [Docker Automation Tool](projects/docker-automation-project.md)
   *A user-friendly Python script that simplifies Docker management on Linux with an interactive command-line menu.*
+
+* #### [Python Development Internship (Cognifyz Technologies)](projects/python-internship-project.md)
+  *A collection of projects demonstrating foundational to intermediate Python skills, completed during a structured internship program.*
+
+* #### [Menu-Based Multi-Technology Automation](projects/menu-project.md)
+  *A versatile, menu-driven command-line tool to automate complex operations across AWS, Linux, Docker, and Kubernetes.*
 
 * #### [Startup: MaidConnect](projects/maidconnect-project.md)
   *An end-to-end digital platform including a website and mobile app to connect users with reliable domestic help services.*
