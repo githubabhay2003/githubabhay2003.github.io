@@ -37,6 +37,6 @@ As the sole DevOps engineer for this project, I was responsible for designing, b
 
 ### 4. Project Links
 
-* **<a href="https://https://github.com/githubabhay2003/jenkins-java-pipeline" target="_blank" rel="noopener noreferrer">View Code & Jenkinsfile on GitHub</a>**
+* **<a href="https://github.com/githubabhay2003/jenkins-java-pipeline" target="_blank" rel="noopener noreferrer">View Code & Jenkinsfile on GitHub</a>**
 
 ---
