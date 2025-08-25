@@ -1,0 +1,42 @@
+# Project: End-to-End Automated CI/CD Pipeline for Web Application Deployment
+
+This project demonstrates the design and implementation of a complete, end-to-end CI/CD pipeline using Jenkins and Docker. The system fully automates the deployment of a web application, from a code commit on GitHub to a live container running on a production server, significantly reducing manual effort and deployment errors.
+
+[Back to Home](../index.md)
+
+---
+
+### 1. The Goal
+
+The primary goal was to solve the challenges of slow, error-prone manual deployments by building a robust, zero-touch CI/CD pipeline. The key objective was to create a system where a `git push` automatically triggers a series of actions: building the application, packaging it into a standardized Docker container, and deploying it to a live production environment without any manual intervention.
+
+---
+
+### 2. My Role & Contributions
+
+As the sole DevOps Engineer on this project, I was responsible for the entire lifecycle of designing, building, and automating the pipeline.
+
+* **Architecture Design:** I designed the complete CI/CD workflow, including a distributed Jenkins master-slave architecture to ensure scalable and efficient builds.
+* **Infrastructure Setup:** I provisioned and configured all necessary cloud infrastructure on AWS, including the EC2 instances for the Jenkins master, build slave, and production slave, along with the required networking and security groups.
+* **Containerization:** I wrote the `Dockerfile` to containerize the web application, ensuring a consistent and portable runtime environment.
+* **CI/CD Implementation:** I configured two Jenkins Freestyle jobs to create the pipeline. The first job (Build-Job) pulls code from GitHub, builds a versioned Docker image, and pushes it to Docker Hub. The second job (Deploy-Job) is triggered upon a successful build to pull the new image and deploy it on the production server.
+* **Automation:** I integrated the entire pipeline with GitHub using webhooks, enabling a fully automated, trigger-based deployment system.
+
+---
+
+### 3. Technologies Used
+
+* **CI/CD Orchestration:** Jenkins
+* **Containerization:** Docker
+* **Container Registry:** Docker Hub
+* **Source Control:** Git & GitHub
+* **Cloud Provider:** Amazon Web Services (AWS)
+* **Virtual Machines:** EC2 Instances (Amazon Linux 2)
+
+---
+
+### 4. Project Links
+
+* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/cicd-pipeline-project)**
+
+---
