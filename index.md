@@ -25,8 +25,20 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 ### Projects
 
+* #### [Java CI/CD Pipeline with Jenkins & Maven](projects/jenkins-pac-java-webapp-pipeline.md)
+  *A complete CI/CD pipeline tailored for Java applications using Jenkins, Maven for building, and Docker for containerization.*
+  
+* #### [CI/CD Pipeline with Dynamic Jenkins Agents & Automated Testing](projects/jenkins-dynamic-agent-pipeline.md)
+  *An advanced pipeline using on-demand, containerized Jenkins agents and a testing quality gate for cost-optimized, reliable deployments.*
+
+* #### [Automated CI/CD for Kubernetes Deployments](projects/jenkins-kubernetes-pipeline.md)
+  *An orchestrated CI/CD pipeline using Jenkins and Kubernetes to automate the deployment, scaling, and management of containerized applications.*
+
+* #### [End-to-End CI/CD Pipeline for Web Applications](projects/jenkins-docker-pipeline.md)
+  *A complete CI/CD pipeline using Jenkins and Docker to fully automate the deployment of a web application from commit to production.*
+
 * #### [CI/CD Pipeline for Python on AWS EKS](projects/cicd-app-project.md)
-  *An end-to-end automated pipeline using AWS services, Docker, and Kubernetes to deploy a Python application.*
+  *An end-to-end automated pipeline using AWS services, Docker, and a managed Kubernetes cluster (EKS) to deploy a Python application.*
 
 * #### [Automated Book Publication Workflow](projects/book-pipeline-project.md)
   *An advanced, AI-driven pipeline using LLMs and a vector DB to automate a book publishing and versioning workflow.*
@@ -57,10 +69,9 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 * #### [Menu-Based Multi-Technology Automation](projects/menu-project.md)
   *A versatile, menu-driven command-line tool to automate complex operations across AWS, Linux, Docker, and Kubernetes.*
-
+  
 * #### [Startup: MaidConnect](projects/maidconnect-project.md)
   *An end-to-end digital platform including a website and mobile app to connect users with reliable domestic help services.*
-
 ---
 
 ### Certifications
