@@ -34,7 +34,7 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 * #### [Automated CI/CD for Kubernetes Deployments](projects/jenkins-kubernetes-pipeline.md)
   *An orchestrated CI/CD pipeline using Jenkins and Kubernetes to automate the deployment, scaling, and management of containerized applications.*
 
-* #### [End-to-End CI/CD Pipeline for Web Applications](projects/jenkins-docker-pipeline)
+* #### [End-to-End CI/CD Pipeline for Web Applications](projects/jenkins-docker-pipeline.md)
   *A complete CI/CD pipeline using Jenkins and Docker to fully automate the deployment of a web application from commit to production.*
 
 * #### [CI/CD Pipeline for Python on AWS EKS](projects/cicd-app-project.md)
