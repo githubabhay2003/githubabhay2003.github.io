@@ -2,8 +2,10 @@
 layout: default
 title: "Contact Identification API with CI/CD on AWS"
 category: "Personal"
+order: 80
 tech-stack: "AWS EKS, ECR, Kubernetes, Docker, Node.js, GitHub Actions"
 github-link: "https://github.com/githubabhay2003/Cloud-backend-Assignment"
+summary: "An end-to-end project featuring a containerized Node.js REST API with a full CI/CD pipeline deploying to a Kubernetes cluster on AWS using GitHub Actions."
 ---
 
 # Project: Contact Identification API with CI/CD on AWS

@@ -2,8 +2,10 @@
 layout: default
 title: "CI/CD Pipeline with Dynamic Jenkins Agents & Testing"
 category: "Personal"
+order: 40
 tech-stack: "Jenkins, Docker, Kubernetes, AWS, Git"
 github-link: "https://github.com/githubabhay2003/jenkins-dynamic-agent-pipeline"
+summary: "An advanced CI/CD pipeline using on-demand, containerized Jenkins agents and a testing quality gate for cost-optimized, reliable deployments to Kubernetes."
 ---
 
 # Project: CI/CD Pipeline with Dynamic Jenkins Agents & Automated Testing

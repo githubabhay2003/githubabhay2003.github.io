@@ -2,8 +2,10 @@
 layout: default
 title: "CI/CD Pipeline for Python on AWS EKS"
 category: "Personal"
+order: 70
 tech-stack: "AWS EKS, CodePipeline, ECR, Python, Docker"
 github-link: "https://github.com/githubabhay2003/cicd-app-repo"
+summary: "An end-to-end automated pipeline using AWS services, including CodePipeline and a managed Kubernetes cluster (EKS), to deploy a Python application."
 ---
 
 # Project: End-to-End CI/CD Pipeline for a Python Application on AWS EKS

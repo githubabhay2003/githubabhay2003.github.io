@@ -2,8 +2,10 @@
 layout: default
 title: "Automated Book Publication Workflow"
 category: "Personal"
+order: 120
 tech-stack: "Python, FLAN-T5, ChromaDB, Playwright, Transformers"
 github-link: "https://github.com/githubabhay2003/Automated-Book-Publication-Workflow"
+summary: "An advanced, AI-driven pipeline that uses an LLM and a vector database to automate the entire book publishing workflow, from content extraction to versioning."
 ---
 
 # Project: Automated Book Publication Workflow

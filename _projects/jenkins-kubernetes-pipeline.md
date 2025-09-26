@@ -2,8 +2,10 @@
 layout: default
 title: "Automated CI/CD Pipeline with Jenkins & Kubernetes"
 category: "Personal"
+order: 50
 tech-stack: "Jenkins, Kubernetes, Docker, AWS, Git"
 github-link: "https://github.com/githubabhay2003/jenkins-kubernetes-pipeline"
+summary: "An orchestrated CI/CD pipeline using Jenkins and Kubernetes to automate the deployment, scaling, and management of containerized applications."
 ---
 
 # Project: Automated CI/CD Pipeline for Orchestrated Deployments with Jenkins and Kubernetes
