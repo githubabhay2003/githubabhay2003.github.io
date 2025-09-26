@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DevOps Internship Projects (CodTech)"
+title: "DevOps Internship (CODTECH IT SOLUTIONS)"
 category: "Internship"
 tech-stack: "Kubernetes, Docker, GitHub Actions, DevSecOps, Git"
 github-link: "https://github.com/githubabhay2003/codtech-task4-devsecops"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Automated Web App Deployment on AWS (Internship)"
+title: "Cloud Technology Intern (NULLCLASS EDTECH PVT. LTD. )"
 category: "Internship"
 tech-stack: "AWS, Terraform, Ansible, Jenkins, Docker"
 github-link: "https://github.com/githubabhay2003/internship-cloud-project"
