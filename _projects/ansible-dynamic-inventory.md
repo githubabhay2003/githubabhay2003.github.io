@@ -4,6 +4,7 @@ title: "Automated HAProxy with Ansible Dynamic Inventory"
 category: "Personal"
 tech-stack: "AWS, Ansible, HAProxy, Jinja2"
 github-link: "https://github.com/githubabhay2003/ansible-dynamic-inventory-project"
+summary: "A zero-touch system that uses Ansible's dynamic inventory to automatically configure an HAProxy load balancer as AWS EC2 instances are launched or terminated."
 ---
 
 # Project: Automated HAProxy Configuration with Ansible Dynamic Inventory on AWS

@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "DevOps Internship (CODTECH IT SOLUTIONS)"
+title: "DevOps Intern (CodTech IT Solutions)"
 category: "Internship"
+order: 2
 tech-stack: "Kubernetes, Docker, GitHub Actions, DevSecOps, Git"
 github-link: "https://github.com/githubabhay2003/codtech-task4-devsecops"
+summary: "A comprehensive portfolio of internship tasks demonstrating a progression of DevOps skills from Git and CI/CD to Kubernetes and DevSecOps."
 ---
 
 # Project: DevOps Internship Projects at CodTech IT Solutions

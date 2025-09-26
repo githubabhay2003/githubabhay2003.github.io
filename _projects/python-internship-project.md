@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "Python Development Internship (Cognifyz)"
+title: "Python Development Intern (Cognifyz Technologies)"
 category: "Internship"
+order: 3
 tech-stack: "Python, Automation, File I/O, Git"
 github-link: "https://github.com/githubabhay2003/cognifyz-python-internship"
+summary: "A collection of projects demonstrating foundational to intermediate Python skills, completed during a structured internship program with Cognifyz Technologies."
 ---
 
 # Project: Python Development Internship (Cognifyz Technologies)
