@@ -2,7 +2,7 @@
 layout: default
 title: "Cloud Technology Intern (Nullclass Edtech Pvt. Ltd.)"
 category: "Internship"
-order: 1
+order: 10
 tech-stack: "AWS, Terraform, Ansible, Jenkins, Docker"
 github-link: "https://github.com/githubabhay2003/internship-cloud-project"
 summary: "A fully automated CI/CD pipeline built with Jenkins, Terraform, and Ansible to deploy a containerized web application on AWS infrastructure."

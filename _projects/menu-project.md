@@ -2,7 +2,7 @@
 layout: default
 title: "AI / ML + DevOps Engineer Intern (LinuxWorld Informatics Pvt. Ltd.)"
 category: "Internship"
-order: 5
+order: 50
 tech-stack: "Python, AWS, Docker, Kubernetes, Linux"
 github-link: "https://github.com/githubabhay2003/Menu-based-project"
 summary: "A versatile, menu-driven command-line tool written in Python to automate complex operations across AWS, Linux, Docker, and Kubernetes from a single interface."

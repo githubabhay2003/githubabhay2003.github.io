@@ -2,7 +2,7 @@
 layout: default
 title: "MaidConnect Startup (LinuxWorld Informatics Pvt. Ltd.)"
 category: "Internship"
-order: 6
+order: 60
 tech-stack: "Flutter Flow, Firebase, HTML, CSS, Bootstrap"
 github-link: "https://github.com/githubabhay2003/Maid-Connect"
 summary: "A full-stack digital solution consisting of a responsive website and a cross-platform mobile app to bridge the gap between customers and reliable domestic help services."
