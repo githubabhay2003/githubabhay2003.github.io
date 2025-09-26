@@ -6,44 +6,45 @@ permalink: /projects/
 
 # My Projects
 
-A collection of my professional and personal work, demonstrating my skills in cloud engineering, DevOps, and automation.
+My work is divided into two categories. Please select one to view the relevant projects.
 
 ---
 
-## Internship Projects
+<style>
+  .category-card {
+    border: 1px solid #ddd;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    border-radius: 8px;
+    transition: all 0.2s ease-in-out;
+  }
+  .category-card:hover {
+    border-color: #007bff;
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .category-card h2 {
+    margin-top: 0;
+  }
+  .category-card a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .category-card a:hover {
+    text-decoration: underline;
+  }
+</style>
 
-<div class="project-list">
-{% for project in site.projects %}
-  {% if project.category == "Internship" %}
-    <div class="project-item">
-      <h3>{{ project.title }}</h3>
-      <p><em><strong>Tech Stack:</strong> {{ project.tech-stack }}</em></p>
-      {{ project.content | strip_html | truncatewords: 50 }}
-      <p class="project-links">
-        {% if project.github-link %}<a href="{{ project.github-link }}" target="_blank" rel="noopener noreferrer">View on GitHub</a>{% endif %}
-        {% if project.live-demo %}<a href="{{ project.live-demo }}" target="_blank" rel="noopener noreferrer">Live Demo</a>{% endif %}
-      </p>
-    </div>
-  {% endif %}
-{% endfor %}
-</div>
+<a href="/projects/internship/" style="text-decoration: none; color: inherit;">
+  <div class="category-card">
+    <h2>📁 Internship Projects</h2>
+    <p>Projects completed during my professional internships, focusing on real-world DevOps and cloud challenges.</p>
+  </div>
+</a>
 
----
-
-## Personal Projects
-
-<div class="project-list">
-{% for project in site.projects %}
-  {% if project.category == "Personal" %}
-    <div class="project-item">
-      <h3>{{ project.title }}</h3>
-      <p><em><strong>Tech Stack:</strong> {{ project.tech-stack }}</em></p>
-      {{ project.content | strip_html | truncatewords: 50 }}
-      <p class="project-links">
-        {% if project.github-link %}<a href="{{ project.github-link }}" target="_blank" rel="noopener noreferrer">View on GitHub</a>{% endif %}
-        {% if project.live-demo %}<a href="{{ project.live-demo }}" target="_blank" rel="noopener noreferrer">Live Demo</a>{% endif %}
-      </p>
-    </div>
-  {% endif %}
-{% endfor %}
-</div>
+<a href="/projects/personal/" style="text-decoration: none; color: inherit;">
+  <div class="category-card">
+    <h2>👤 Personal Projects</h2>
+    <p>A collection of my self-driven projects, exploring various technologies in AI, automation, and system administration.</p>
+  </div>
+</a>
