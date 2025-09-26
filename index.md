@@ -27,13 +27,13 @@ I am a DevOps Engineer with hands-on experience in deploying and automating infr
 
 Here are a few highlights of my work. See the full list on my projects page.
 
-* #### [CI/CD Pipeline with Dynamic Jenkins Agents & Automated Testing](projects/jenkins-dynamic-agent-pipeline.md)
+* #### [CI/CD Pipeline with Dynamic Jenkins Agents & Automated Testing](/projects/jenkins-dynamic-agent-pipeline.html)
   *An advanced pipeline using on-demand, containerized Jenkins agents and a testing quality gate for cost-optimized, reliable deployments.*
 
-* #### [Automated CI/CD for Kubernetes Deployments](projects/jenkins-kubernetes-pipeline.md)
+* #### [Automated CI/CD for Kubernetes Deployments](/projects/jenkins-kubernetes-pipeline.html)
   *An orchestrated CI/CD pipeline using Jenkins and Kubernetes to automate the deployment, scaling, and management of containerized applications.*
 
-* #### [CI/CD Pipeline for Python on AWS EKS](projects/cicd-app-project.md)
+* #### [CI/CD Pipeline for Python on AWS EKS](/projects/cicd-app-project.html)
   *An end-to-end automated pipeline using AWS services, Docker, and a managed Kubernetes cluster (EKS) to deploy a Python application.*
 
 ### **[► View All My Projects](./projects/)**
