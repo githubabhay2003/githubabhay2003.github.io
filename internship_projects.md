@@ -8,7 +8,7 @@ permalink: /projects/internship/
 
 These projects were completed during my professional internships, focusing on real-world challenges in cloud computing, DevOps, and software development.
 
-[Back to Main Projects Page](../projects/)
+[Back to Home](./index.md)
 
 ---
 
