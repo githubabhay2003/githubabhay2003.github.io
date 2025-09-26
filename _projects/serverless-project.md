@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Serverless Image Processing Pipeline (Internship)"
+category: "Internship"
+tech-stack: "AWS Lambda, S3, Cognito, IAM, Python"
+github-link: "https://github.com/githubabhay2003/Serverless-Image-Processing-using-AWS-Services"
+---
+
 # Project: Serverless Image Processing Pipeline on AWS
 
 This project is an end-to-end, event-driven pipeline that automatically resizes images upon upload using a fully serverless architecture on Amazon Web Services.
@@ -31,4 +39,6 @@ As the architect and developer of this pipeline, I was responsible for integrati
 ---
 
 ### 4. Project Links
-* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/Serverless-Image-Processing-using-AWS-Services)**
+* **<a href="https://github.com/githubabhay2003/Serverless-Image-Processing-using-AWS-Services" target="_blank" rel="noopener noreferrer">View Code & Architecture on GitHub</a>**
+
+---

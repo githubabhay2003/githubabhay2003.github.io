@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Automated CI/CD Pipeline with Jenkins & Kubernetes"
+category: "Personal"
+tech-stack: "Jenkins, Kubernetes, Docker, AWS, Git"
+github-link: "https://github.com/githubabhay2003/jenkins-kubernetes-pipeline"
+---
+
 # Project: Automated CI/CD Pipeline for Orchestrated Deployments with Jenkins and Kubernetes
 
 This project showcases an advanced, end-to-end CI/CD pipeline that automates the deployment of a containerized application to a Kubernetes cluster. Evolving from a basic single-container setup, this system leverages Kubernetes to provide scalability, high availability, and resilience, addressing the limitations of traditional deployments.
@@ -36,6 +44,6 @@ As the sole architect of this pipeline, I was responsible for the entire project
 
 ### 4. Project Links
 
-* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/jenkins-kubernetes-pipeline)**
+* **<a href="https://github.com/githubabhay2003/jenkins-kubernetes-pipeline" target="_blank" rel="noopener noreferrer">View Code & Architecture on GitHub</a>**
 
 ---

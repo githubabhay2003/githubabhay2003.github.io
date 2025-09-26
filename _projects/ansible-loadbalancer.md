@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Ansible Dynamic Load Balancer on AWS"
+category: "Personal"
+tech-stack: "AWS, Ansible, HAProxy, Apache, Jinja2"
+github-link: "https://github.com/githubabhay2003/ansible-loadbalancer-project"
+---
+
 # Project: Ansible Dynamic Load Balancer on AWS
 
 This project automates the deployment of a high-availability, dynamically scalable web architecture on AWS using Ansible. It provisions an HAProxy load balancer that automatically discovers and distributes traffic to a backend fleet of Apache web servers. The entire setup is dynamic: by simply adding a new web server's private IP to the Ansible inventory and re-running the master playbook, the new server is automatically provisioned, configured, and added to the load balancer's pool.

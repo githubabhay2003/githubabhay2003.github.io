@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Binance Mock Trading Bot"
+category: "Personal"
+tech-stack: "Python, API Simulation, CLI"
+github-link: "https://github.com/githubabhay2003/binance-mock-trading-bot-assignment"
+---
+
 # Project: Binance Mock Trading Bot
 
 A sophisticated, command-line trading bot written in Python that simulates placing complex futures orders on the Binance exchange without requiring real credentials or funds.
@@ -29,4 +37,6 @@ As the sole developer, I architected and built the entire application with a foc
 ---
 
 ### 4. Project Links
-* **[View Code on GitHub](https://github.com/githubabhay2003/binance-mock-trading-bot-assignment)**
+* **<a href="https://github.com/githubabhay2003/binance-mock-trading-bot-assignment" target="_blank" rel="noopener noreferrer">View Code on GitHub</a>**
+
+---

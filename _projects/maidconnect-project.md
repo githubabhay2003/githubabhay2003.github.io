@@ -1,3 +1,11 @@
+---
+layout: default
+title: "MaidConnect Startup (Internship)"
+category: "Internship"
+tech-stack: "Flutter Flow, Firebase, HTML, CSS, Bootstrap"
+github-link: "https://github.com/githubabhay2003/Maid-Connect"
+---
+
 # Project: MaidConnect Startup
 
 MaidConnect is a full-stack digital solution I engineered, consisting of a responsive marketing website and a cross-platform mobile application to bridge the gap between customers and reliable domestic help services.
@@ -29,5 +37,7 @@ As the founder and developer, I was responsible for the end-to-end creation of t
 ---
 
 ### 4. Project Links
-* **[View Code on GitHub](https://github.com/githubabhay2003/Maid-Connect)**
-* **[Visit the Live Website](http://maidconnect.site)**
+* **<a href="https://github.com/githubabhay2003/Maid-Connect" target="_blank" rel="noopener noreferrer">View Code on GitHub</a>**
+* **<a href="http://maidconnect.site" target="_blank" rel="noopener noreferrer">Visit the Live Website</a>**
+
+---

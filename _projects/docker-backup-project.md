@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Docker Volume Backup System"
+category: "Personal"
+tech-stack: "Python, Docker, Docker Compose, Shell Scripting"
+github-link: "https://github.com/githubabhay2003/Docker-volume-backup-system"
+---
+
 # Project: Docker Volume Backup System
 
 This project is a self-contained, automated solution for backing up persistent data from Docker volumes, packaged as an easy-to-use Docker container.
@@ -30,4 +38,6 @@ As the developer, I architected this tool to be a standalone, "set-it-and-forget
 ---
 
 ### 4. Project Links
-* **[View Code on GitHub](https://github.com/githubabhay2003/Docker-volume-backup-system)**
+* **<a href="https://github.com/githubabhay2003/Docker-volume-backup-system" target="_blank" rel="noopener noreferrer">View Code on GitHub</a>**
+
+---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "CI/CD Pipeline with Dynamic Jenkins Agents & Testing"
+category: "Personal"
+tech-stack: "Jenkins, Docker, Kubernetes, AWS, Git"
+github-link: "https://github.com/githubabhay2003/jenkins-dynamic-agent-pipeline"
+---
+
 # Project: CI/CD Pipeline with Dynamic Jenkins Agents & Automated Testing
 
 This project represents the final evolution of a multi-stage CI/CD pipeline, focusing on cost-optimization, efficiency, and quality assurance. By integrating the Jenkins Docker plugin, the system moves from a static infrastructure to a dynamic, on-demand model where temporary, containerized Jenkins agents are provisioned only when needed. This pipeline also introduces an automated testing stage, ensuring only validated builds are deployed to the final Kubernetes environment.
@@ -36,6 +44,6 @@ As the architect and engineer of this advanced pipeline, I was responsible for d
 
 ### 4. Project Links
 
-* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/jenkins-dynamic-agent-pipeline)**
+* **<a href="https://github.com/githubabhay2003/jenkins-dynamic-agent-pipeline" target="_blank" rel="noopener noreferrer">View Code & Architecture on GitHub</a>**
 
 ---

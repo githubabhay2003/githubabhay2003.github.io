@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Java CI/CD Pipeline with Jenkins & Maven"
+category: "Personal"
+tech-stack: "Jenkins, Docker, Maven, Java, AWS"
+github-link: "https://github.com/githubabhay2003/jenkins-java-pipeline"
+---
+
 # Project: Java CI/CD Pipeline with Jenkins, Docker, and Maven
 
 This project demonstrates a complete, automated CI/CD pipeline for a Java Spring MVC web application. The pipeline is designed to automatically build, containerize, and deploy the application upon any code change, ensuring a fast and reliable software delivery process for Java-based projects.

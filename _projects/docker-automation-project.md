@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Docker Automation Tool"
+category: "Personal"
+tech-stack: "Python, Docker, Linux, Shell Scripting"
+github-link: "https://github.com/githubabhay2003/Docker-Automation"
+---
+
 # Project: Docker Automation Tool
 
 This is a command-line tool written in Python that provides a simple, menu-driven interface to manage common Docker operations on a Linux system.
@@ -29,4 +37,6 @@ As the developer of this tool, I was responsible for:
 ---
 
 ### 4. Project Links
-* **[View Code on GitHub](https://github.com/githubabhay2003/Docker-Automation)**
+* **<a href="https://github.com/githubabhay2003/Docker-Automation" target="_blank" rel="noopener noreferrer">View Code on GitHub</a>**
+
+---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Automated Book Publication Workflow"
+category: "Personal"
+tech-stack: "Python, FLAN-T5, ChromaDB, Playwright, Transformers"
+github-link: "https://github.com/githubabhay2003/Automated-Book-Publication-Workflow"
+---
+
 # Project: Automated Book Publication Workflow
 
 An advanced, AI-driven pipeline that automates the entire book publishing workflow, from web-based chapter extraction to AI-powered rewriting, human-in-the-loop review, and semantic versioning in a vector database.
@@ -32,6 +40,6 @@ As the sole architect and engineer, I designed and built this complex, multi-sta
 ---
 
 ### 4. Project Links
-* **[View Code & Pipeline on GitHub](https://github.com/githubabhay2003/Automated-Book-Publication-Workflow)**
+* **<a href="https://github.com/githubabhay2003/Automated-Book-Publication-Workflow" target="_blank" rel="noopener noreferrer">View Code & Pipeline on GitHub</a>**
 
 ---

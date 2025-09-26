@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Linux Resource Monitoring & Alert System (LRMAS)"
+category: "Personal"
+tech-stack: "Python, Linux, systemd, psutil"
+github-link: "https://github.com/githubabhay2003/linux-resource-monitor"
+---
+
 # Project: LRMAS - Linux Resource Monitoring & Alert System
 
 LRMAS is a lightweight, custom-built monitoring tool that runs as a background service on a Linux system to track critical resources and send real-time alerts.
@@ -31,4 +39,6 @@ As the sole developer, I engineered this tool from the ground up, focusing on re
 ---
 
 ### 4. Project Links
-* **[View Code on GitHub](https://github.com/githubabhay2003/linux-resource-monitor)**
+* **<a href="https://github.com/githubabhay2003/linux-resource-monitor" target="_blank" rel="noopener noreferrer">View Code on GitHub</a>**
+
+---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "End-to-End CI/CD Pipeline with Jenkins & Docker"
+category: "Personal"
+tech-stack: "Jenkins, Docker, AWS, Git"
+github-link: "https://github.com/githubabhay2003/jenkins-docker-cicd-pipeline"
+---
+
 # Project: End-to-End Automated CI/CD Pipeline for Web Application Deployment
 
 This project demonstrates the design and implementation of a complete, end-to-end CI/CD pipeline using Jenkins and Docker. The system fully automates the deployment of a web application, from a code commit on GitHub to a live container running on a production server, significantly reducing manual effort and deployment errors.
@@ -37,6 +45,6 @@ As the sole DevOps Engineer on this project, I was responsible for the entire li
 
 ### 4. Project Links
 
-* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/jenkins-docker-cicd-pipeline)**
+* **<a href="https://github.com/githubabhay2003/jenkins-docker-cicd-pipeline" target="_blank" rel="noopener noreferrer">View Code & Architecture on GitHub</a>**
 
 ---

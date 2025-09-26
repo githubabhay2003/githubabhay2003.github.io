@@ -1,4 +1,12 @@
-# Project: Automated Web Application Deployment on AWS (Internship Project)
+---
+layout: default
+title: "Automated Web App Deployment on AWS (Internship)"
+category: "Internship"
+tech-stack: "AWS, Terraform, Ansible, Jenkins, Docker"
+github-link: "https://github.com/githubabhay2003/internship-cloud-project"
+---
+
+# Project: Automated Web Application Deployment on AWS (NullClass Internship Project)
 
 The primary objective of this project was to design, build, and deploy a fully automated Continuous Integration and Continuous Deployment (CI/CD) pipeline. The goal was to take a static web application from a source code repository to a live, publicly accessible server on AWS, with the entire process being automated and triggered by a `git push`.
 

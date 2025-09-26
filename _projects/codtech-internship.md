@@ -1,3 +1,11 @@
+---
+layout: default
+title: "DevOps Internship Projects (CodTech)"
+category: "Internship"
+tech-stack: "Kubernetes, Docker, GitHub Actions, DevSecOps, Git"
+github-link: "https://github.com/githubabhay2003/codtech-task4-devsecops"
+---
+
 # Project: DevOps Internship Projects at CodTech IT Solutions
 
 This project is a comprehensive portfolio of the tasks completed during my DevOps internship at CodTech IT Solutions. It showcases a progression of skills, starting from foundational version control with Git, moving to CI/CD automation with Jenkins, container orchestration with Kubernetes, and finally integrating security into the pipeline with DevSecOps practices.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "AI Player Tracking with YOLOv8 & DeepSORT"
+category: "Personal"
+tech-stack: "Python, YOLOv8, DeepSORT, PyTorch, OpenCV"
+github-link: "https://github.com/githubabhay2003/Player-Tracking"
+---
+
 # Project: AI Player Tracking with YOLOv8 & DeepSORT
 
 This project is a sophisticated computer vision pipeline that performs real-time player detection and tracking in football match footage using a custom-trained AI model.
@@ -32,4 +40,6 @@ As the engineer for this project, I was responsible for integrating the entire c
 ---
 
 ### 4. Project Links
-* **[View Code & Models on GitHub](https://github.com/githubabhay2003/Player-Tracking)**
+* **<a href="https://github.com/githubabhay2003/Player-Tracking" target="_blank" rel="noopener noreferrer">View Code & Models on GitHub</a>**
+
+---

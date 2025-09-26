@@ -1,3 +1,11 @@
+---
+layout: default
+title: "CI/CD Pipeline for Python on AWS EKS"
+category: "Personal"
+tech-stack: "AWS EKS, CodePipeline, ECR, Python, Docker"
+github-link: "https://github.com/githubabhay2003/cicd-app-repo"
+---
+
 # Project: End-to-End CI/CD Pipeline for a Python Application on AWS EKS
 This project demonstrates a complete, end-to-end CI/CD pipeline that automates the entire lifecycle of a Python (FastAPI) web application. The workflow covers the entire process from a `git push` on GitHub to a live deployment on a managed Kubernetes cluster (AWS EKS).
 
@@ -28,7 +36,6 @@ As the architect and developer of this pipeline, I was responsible for designing
 
 ### 4. Project Links
 
-* **[View Code & Architecture on GitHub](https://github.com/githubabhay2003/cicd-app-repo)**
+* **<a href="https://github.com/githubabhay2003/cicd-app-repo" target="_blank" rel="noopener noreferrer">View Code & Architecture on GitHub</a>**
 
 ---
-

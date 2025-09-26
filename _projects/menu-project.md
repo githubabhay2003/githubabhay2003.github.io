@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Menu-Based Multi-Technology Automation (Internship)"
+category: "Internship"
+tech-stack: "Python, AWS, Docker, Kubernetes, Linux"
+github-link: "https://github.com/githubabhay2003/Menu-based-project"
+---
+
 # Project: Menu-Based Multi-Technology Automation
 
 This project is a versatile, menu-driven command-line tool designed to simplify and automate complex operations across AWS, Linux, Docker, and Kubernetes.
@@ -31,4 +39,6 @@ As the sole developer, I was responsible for the entire project lifecycle, from 
 ---
 
 ### 4. Project Links
-* **[View Code on GitHub](https://github.com/githubabhay2003/Menu-based-project)**
+* **<a href="https://github.com/githubabhay2003/Menu-based-project" target="_blank" rel="noopener noreferrer">View Code on GitHub</a>**
+
+---
