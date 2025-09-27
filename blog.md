@@ -8,6 +8,8 @@ permalink: /blog/
 
 A collection of my articles on cloud computing, DevOps, and automation, originally published on Medium.
 
+[Back to Home](./index.md)
+
 ---
 
 <div class="post-list">
