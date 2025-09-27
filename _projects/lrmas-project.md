@@ -12,7 +12,7 @@ summary: "A custom Python service that runs as a background systemd daemon to mo
 
 LRMAS is a lightweight, custom-built monitoring tool that runs as a background service on a Linux system to track critical resources and send real-time alerts.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

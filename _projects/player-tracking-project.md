@@ -12,7 +12,7 @@ summary: "A sophisticated computer vision pipeline that uses a custom-trained YO
 
 This project is a sophisticated computer vision pipeline that performs real-time player detection and tracking in football match footage using a custom-trained AI model.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

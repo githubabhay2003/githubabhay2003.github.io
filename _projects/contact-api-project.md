@@ -12,7 +12,7 @@ summary: "An end-to-end project featuring a containerized Node.js REST API with 
 
 This project features a Node.js REST API that is fully containerized, deployed to a Kubernetes cluster on AWS, and managed by an automated CI/CD pipeline using GitHub Actions.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

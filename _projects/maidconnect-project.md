@@ -12,7 +12,7 @@ summary: "A full-stack digital solution consisting of a responsive website and a
 
 MaidConnect is a full-stack digital solution I engineered, consisting of a responsive marketing website and a cross-platform mobile application to bridge the gap between customers and reliable domestic help services.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

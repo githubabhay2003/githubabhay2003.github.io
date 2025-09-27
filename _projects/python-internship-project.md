@@ -12,7 +12,7 @@ summary: "A collection of projects demonstrating foundational to intermediate Py
 
 This project showcases the skills and foundational knowledge I developed during a comprehensive Python Development Internship with Cognifyz Technologies. The program was structured to build proficiency from fundamental concepts to practical, real-world applications through a series of hands-on tasks and challenges.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

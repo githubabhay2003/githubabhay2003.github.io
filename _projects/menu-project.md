@@ -12,7 +12,7 @@ summary: "A versatile, menu-driven command-line tool written in Python to automa
 
 This project is a versatile, menu-driven command-line tool designed to simplify and automate complex operations across AWS, Linux, Docker, and Kubernetes.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

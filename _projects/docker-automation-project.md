@@ -12,7 +12,7 @@ summary: "A user-friendly Python script that simplifies common Docker management
 
 This is a command-line tool written in Python that provides a simple, menu-driven interface to manage common Docker operations on a Linux system.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

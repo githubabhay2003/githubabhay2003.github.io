@@ -12,7 +12,7 @@ summary: "An event-driven, serverless pipeline on AWS using S3, Lambda, and Cogn
 
 This project is an end-to-end, event-driven pipeline that automatically resizes images upon upload using a fully serverless architecture on Amazon Web Services.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

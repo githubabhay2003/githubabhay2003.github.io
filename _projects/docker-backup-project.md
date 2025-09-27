@@ -12,7 +12,7 @@ summary: "A containerized, automated tool that uses a Python scheduler to create
 
 This project is a self-contained, automated solution for backing up persistent data from Docker volumes, packaged as an easy-to-use Docker container.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

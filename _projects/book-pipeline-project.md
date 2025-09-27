@@ -12,7 +12,7 @@ summary: "An advanced, AI-driven pipeline that uses an LLM and a vector database
 
 An advanced, AI-driven pipeline that automates the entire book publishing workflow, from web-based chapter extraction to AI-powered rewriting, human-in-the-loop review, and semantic versioning in a vector database.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

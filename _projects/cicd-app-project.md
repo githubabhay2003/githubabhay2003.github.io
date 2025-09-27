@@ -11,7 +11,7 @@ summary: "An end-to-end automated pipeline using AWS services, including CodePip
 # Project: End-to-End CI/CD Pipeline for a Python Application on AWS EKS
 This project demonstrates a complete, end-to-end CI/CD pipeline that automates the entire lifecycle of a Python (FastAPI) web application. The workflow covers the entire process from a `git push` on GitHub to a live deployment on a managed Kubernetes cluster (AWS EKS).
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 

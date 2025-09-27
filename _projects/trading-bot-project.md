@@ -12,7 +12,7 @@ summary: "A Python CLI application that simulates placing complex futures orders
 
 A sophisticated, command-line trading bot written in Python that simulates placing complex futures orders on the Binance exchange without requiring real credentials or funds.
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
 
 ---
 
