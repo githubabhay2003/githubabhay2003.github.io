@@ -9,6 +9,7 @@ permalink: /projects/personal/
 This is a collection of my self-driven projects, created to explore new technologies and solve interesting problems in AI, automation, and system administration.
 
 [Back to Home](./index.md)
+
 ---
 
 <div class="project-list">
