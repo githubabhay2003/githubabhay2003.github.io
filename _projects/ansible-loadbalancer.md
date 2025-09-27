@@ -12,7 +12,7 @@ summary: "An automated setup that uses Ansible to deploy and configure an HAProx
 
 This project automates the deployment of a high-availability, dynamically scalable web architecture on AWS using Ansible. It provisions an HAProxy load balancer that automatically discovers and distributes traffic to a backend fleet of Apache web servers. The entire setup is dynamic: by simply adding a new web server's private IP to the Ansible inventory and re-running the master playbook, the new server is automatically provisioned, configured, and added to the load balancer's pool.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

@@ -12,7 +12,7 @@ summary: "A comprehensive portfolio of internship tasks demonstrating a progress
 
 This project is a comprehensive portfolio of the tasks completed during my DevOps internship at CodTech IT Solutions. It showcases a progression of skills, starting from foundational version control with Git, moving to CI/CD automation with Jenkins, container orchestration with Kubernetes, and finally integrating security into the pipeline with DevSecOps practices.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

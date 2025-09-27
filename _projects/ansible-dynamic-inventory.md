@@ -12,7 +12,7 @@ summary: "A zero-touch system that uses Ansible's dynamic inventory to automatic
 
 This project demonstrates a fully automated, cloud-native solution for managing a high-availability web service architecture. It features an HAProxy load balancer that dynamically discovers and- configures its backend server pool using Ansible's dynamic inventory capabilities for AWS. The system is designed to automatically adapt to changes in the infrastructure—such as the addition or removal of web servers—without any manual intervention, ensuring continuous service availability and scalability.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

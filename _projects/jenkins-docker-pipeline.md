@@ -12,7 +12,7 @@ summary: "A complete CI/CD pipeline using Jenkins and Docker to fully automate t
 
 This project demonstrates the design and implementation of a complete, end-to-end CI/CD pipeline using Jenkins and Docker. The system fully automates the deployment of a web application, from a code commit on GitHub to a live container running on a production server, significantly reducing manual effort and deployment errors.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

@@ -12,7 +12,7 @@ summary: "A fully automated CI/CD pipeline built with Jenkins, Terraform, and An
 
 The primary objective of this project was to design, build, and deploy a fully automated Continuous Integration and Continuous Deployment (CI/CD) pipeline. The goal was to take a static web application from a source code repository to a live, publicly accessible server on AWS, with the entire process being automated and triggered by a `git push`.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

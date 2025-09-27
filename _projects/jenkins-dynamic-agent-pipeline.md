@@ -12,7 +12,7 @@ summary: "An advanced CI/CD pipeline using on-demand, containerized Jenkins agen
 
 This project represents the final evolution of a multi-stage CI/CD pipeline, focusing on cost-optimization, efficiency, and quality assurance. By integrating the Jenkins Docker plugin, the system moves from a static infrastructure to a dynamic, on-demand model where temporary, containerized Jenkins agents are provisioned only when needed. This pipeline also introduces an automated testing stage, ensuring only validated builds are deployed to the final Kubernetes environment.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

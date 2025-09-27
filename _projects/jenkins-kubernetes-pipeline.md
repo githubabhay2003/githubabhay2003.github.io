@@ -12,7 +12,7 @@ summary: "An orchestrated CI/CD pipeline using Jenkins and Kubernetes to automat
 
 This project showcases an advanced, end-to-end CI/CD pipeline that automates the deployment of a containerized application to a Kubernetes cluster. Evolving from a basic single-container setup, this system leverages Kubernetes to provide scalability, high availability, and resilience, addressing the limitations of traditional deployments.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 

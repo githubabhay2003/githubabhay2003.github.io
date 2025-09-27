@@ -12,7 +12,7 @@ summary: "A complete CI/CD pipeline tailored for Java applications using Jenkins
 
 This project demonstrates a complete, automated CI/CD pipeline for a Java Spring MVC web application. The pipeline is designed to automatically build, containerize, and deploy the application upon any code change, ensuring a fast and reliable software delivery process for Java-based projects.
 
-[Back to Home](../index.md)
+[Back to Home](./index.md)
 
 ---
 
