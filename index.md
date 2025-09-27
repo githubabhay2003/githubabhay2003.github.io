@@ -1,106 +1,80 @@
-# This script will create all 7 blog post files in the _posts directory.
+# Abhay Kumar Saini
 
-cat << 'EOF' > _posts/2025-09-15-declarative-iac-ansible-aws.md
----
-layout: post
-title: "Beyond Scripts: A Declarative IaC Deep Dive with Ansible and AWS"
-date: 2025-09-15
-summary: "An exploration of Infrastructure as Code (IaC) principles, demonstrating how to use Ansible and AWS for a declarative, reliable, and scalable cloud infrastructure."
-medium_link: "https://medium.com/@abhaykumarsaini9982/beyond-scripts-a-declarative-iac-deep-dive-with-ansible-and-aws-e605f989a6a1"
-tags: [Ansible, AWS, IaC, DevOps]
+DevOps Engineer | Cloud Enthusiast | Automation Specialist
+
+[LinkedIn](https://linkedin.com/in/abhay-kumar-saini-571891264) • [GitHub](https://github.com/githubabhay2003) • <abhaykumarsaini484@gmail.com>
+
 ---
 
-This is a summary of my article originally published on Medium. 
+### About Me
 
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
+I am a DevOps Engineer with hands-on experience in deploying and automating infrastructure using AWS, Docker, Kubernetes, and Terraform. I specialize in building robust CI/CD pipelines and leveraging Python for scripting and automation. My focus is on creating reliable, scalable, and efficient systems.
 
-cat << 'EOF' > _posts/2025-08-23-java-cicd-jenkins-docker.md
----
-layout: post
-title: "Build a Java CI/CD Pipeline with Jenkins and Docker: From Git Push to Live Container"
-date: 2025-08-23
-summary: "A step-by-step guide to creating a complete CI/CD pipeline for Java applications using standard DevOps tools like Jenkins, Docker, and Maven."
-medium_link: "https://medium.com/@abhaykumarsaini9982/build-a-java-ci-cd-pipeline-with-jenkins-and-docker-from-git-push-to-live-container-db87fd799851"
-tags: [Java, CI/CD, Jenkins, Docker, Maven]
 ---
 
-This is a summary of my article originally published on Medium. 
+### Core Skills
 
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
+* **Cloud Computing:** AWS (EC2, IAM, S3, Lambda, CloudFront)
+* **Containers & Orchestration:** Docker, Kubernetes
+* **CI/CD Tools:** Jenkins, Git, GitHub
+* **Configuration Management:** Ansible (RHCE v9)
+* **Infrastructure as Code (IaC):** Terraform
+* **Scripting & Automation:** Python, Bash
 
-cat << 'EOF' > _posts/2025-08-22-on-demand-jenkins-agents.md
----
-layout: post
-title: "Stop Wasting Money on Idle Servers: A Guide to On-Demand Jenkins Agents"
-date: 2025-08-22
-summary: "A practical guide to optimizing cloud costs and improving pipeline efficiency by configuring Jenkins to use dynamic, on-demand, containerized build agents."
-medium_link: "https://medium.com/@abhaykumarsaini9982/stop-wasting-money-on-idle-servers-a-guide-to-on-demand-jenkins-agents-9348bd35a0dd"
-tags: [Jenkins, Docker, AWS, DevOps, CostOptimization]
 ---
 
-This is a summary of my article originally published on Medium. 
+### My Projects
 
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
+My work is divided into two categories. Please select one to view the relevant projects.
 
-cat << 'EOF' > _posts/2025-08-21-jenkins-docker-aws-tutorial.md
----
-layout: post
-title: "CI/CD Pipeline Tutorial: Jenkins + Docker + AWS (Step-by-Step for Beginners)"
-date: 2025-08-21
-summary: "A beginner-friendly, step-by-step tutorial for building a foundational CI/CD pipeline from scratch using Jenkins, Docker, and AWS EC2 instances."
-medium_link: "https://medium.com/@abhaykumarsaini9982/ci-cd-pipeline-tutorial-jenkins-docker-aws-step-by-step-for-beginners-fdd16172143c"
-tags: [CI/CD, Jenkins, Docker, AWS]
----
+<style>
+  .category-card {
+    border: 1px solid #ddd;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    border-radius: 8px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  .category-card:hover {
+    border-color: #007bff;
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .category-card h2 {
+    margin-top: 0;
+  }
+  .category-card h2 a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .category-card h2 a:hover {
+    text-decoration: underline;
+  }
+</style>
 
-This is a summary of my article originally published on Medium. 
+<div class="category-card" onclick="window.location.href='/projects/internship/'">
+  <h2><a href="/projects/internship/">📁 Internship Projects</a></h2>
+  <p>Projects completed during my professional internships, focusing on real-world DevOps and cloud challenges.</p>
+</div>
 
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
+<div class="category-card" onclick="window.location.href='/projects/personal/'">
+  <h2><a href="/projects/personal/">👤 Personal Projects</a></h2>
+  <p>A collection of my self-driven projects, exploring various technologies in AI, automation, and system administration.</p>
+</div>
 
-cat << 'EOF' > _posts/2025-08-20-docker-to-kubernetes-cicd.md
----
-layout: post
-title: "From Docker to Kubernetes: A Beginner’s Guide to Building a Resilient CI/CD Pipeline"
-date: 2025-08-20
-summary: "A beginner's guide on evolving a simple Docker-based CI/CD pipeline into a resilient, scalable system by deploying applications to a Kubernetes cluster."
-medium_link: "https://medium.com/@abhaykumarsaini9982/beyond-docker-run-orchestrating-a-resilient-ci-cd-pipeline-with-jenkins-and-kubernetes-510a28646aad"
-tags: [Kubernetes, Docker, CI/CD, DevOps]
----
-
-This is a summary of my article originally published on Medium. 
-
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
-
-cat << 'EOF' > _posts/2025-07-24-production-eks-pipeline-python.md
----
-layout: post
-title: "Beyond the Tutorial: Building a Production-Grade EKS Pipeline for Python Microservices"
-date: 2025-07-24
-summary: "A detailed walkthrough of building a production-ready CI/CD pipeline on AWS for Python microservices using managed services like EKS, ECR, and CodePipeline."
-medium_link: "https://medium.com/@abhaykumarsaini9982/beyond-the-tutorial-building-a-production-grade-eks-pipeline-for-python-microservices-cddaee057604"
-tags: [AWS, EKS, Kubernetes, Python, CI/CD]
 ---
 
-This is a summary of my article originally published on Medium. 
+### My Blog
 
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
+I regularly write about my projects and learnings in cloud computing, DevOps, and automation. You can find all of my articles, originally published on Medium, collected here.
 
-cat << 'EOF' > _posts/2025-07-22-static-portfolio-github-pages.md
----
-layout: post
-title: "From Zero to Deployed: Building a Static Portfolio for Engineers with GitHub Pages"
-date: 2025-07-22
-summary: "A comprehensive guide for software engineers on how to build and deploy a clean, professional static portfolio website for free using Jekyll and GitHub Pages."
-medium_link: "https://medium.com/@abhaykumarsaini9982/from-zero-to-deployed-building-a-static-portfolio-for-engineers-with-github-pages-6d8d4f871e41"
-tags: [Jekyll, GitHub, Portfolio, WebDev]
+* **[Read My Blog](./blog/)**
+
 ---
 
-This is a summary of my article originally published on Medium. 
+### Certifications
 
-#### [Read the full article on Medium]({{ page.medium_link }})
-EOF
+*I have earned certifications across Cloud, DevOps, Cybersecurity, and Core Programming. You can view all of my verifiable credentials on the certifications page.*
+
+* **[View All Certifications](./certifications.md)**
