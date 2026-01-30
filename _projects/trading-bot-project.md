@@ -2,7 +2,7 @@
 layout: default
 title: "Binance Mock Trading Bot"
 category: "Personal"
-order: 140
+order: 230
 tech-stack: "Python, API Simulation, CLI"
 github-link: "https://github.com/githubabhay2003/binance-mock-trading-bot-assignment"
 summary: "A Python CLI application that simulates placing complex futures orders on the Binance exchange and demonstrates clean software architecture using a mock API backend."

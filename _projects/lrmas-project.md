@@ -2,7 +2,7 @@
 layout: default
 title: "Linux Resource Monitoring & Alert System (LRMAS)"
 category: "Personal"
-order: 110
+order: 200
 tech-stack: "Python, Linux, systemd, psutil"
 github-link: "https://github.com/githubabhay2003/linux-resource-monitor"
 summary: "A custom Python service that runs as a background systemd daemon to monitor Linux system resources and send real-time email alerts when thresholds are breached."

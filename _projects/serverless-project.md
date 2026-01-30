@@ -2,7 +2,7 @@
 layout: default
 title: "AWS Cloud Intern (Navodita InfoTech)"
 category: "Internship"
-order: 40
+order: 130
 tech-stack: "AWS Lambda, S3, Cognito, IAM, Python"
 github-link: "https://github.com/githubabhay2003/Serverless-Image-Processing-using-AWS-Services"
 summary: "An event-driven, serverless pipeline on AWS using S3, Lambda, and Cognito to automatically process and resize images upon secure upload."

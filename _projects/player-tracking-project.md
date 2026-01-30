@@ -2,7 +2,7 @@
 layout: default
 title: "AI Player Tracking with YOLOv8 & DeepSORT"
 category: "Personal"
-order: 130
+order: 220
 tech-stack: "Python, YOLOv8, DeepSORT, PyTorch, OpenCV"
 github-link: "https://github.com/githubabhay2003/Player-Tracking"
 summary: "A sophisticated computer vision pipeline that uses a custom-trained YOLOv8 model and the DeepSORT algorithm for real-time player detection and tracking in sports footage."

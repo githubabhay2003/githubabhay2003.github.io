@@ -2,7 +2,7 @@
 layout: default
 title: "Java CI/CD Pipeline with Jenkins & Maven"
 category: "Personal"
-order: 30
+order: 120
 tech-stack: "Jenkins, Docker, Maven, Java, AWS"
 github-link: "https://github.com/githubabhay2003/jenkins-java-pipeline"
 summary: "A complete CI/CD pipeline tailored for Java applications using Jenkins for automation, Maven for building, and Docker for containerization."

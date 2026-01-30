@@ -2,7 +2,7 @@
 layout: default
 title: "Ansible Dynamic Load Balancer on AWS"
 category: "Personal"
-order: 20
+order: 110
 tech-stack: "AWS, Ansible, HAProxy, Apache, Jinja2"
 github-link: "https://github.com/githubabhay2003/ansible-loadbalancer-project"
 summary: "An automated setup that uses Ansible to deploy and configure an HAProxy load balancer and a fleet of backend Apache web servers on AWS."
