@@ -12,47 +12,6 @@ summary: "A professional-grade CI/CD pipeline for AWS infrastructure that integr
 
 This project demonstrates a fully automated, professional-grade CI/CD pipeline for provisioning and managing AWS infrastructure. It moves beyond simple automation by embedding "shift-left" security principles, financial governance, and strict deployment controls directly into the GitOps workflow.
 
-```mermaid
-graph TD
-    A[Dev creates Pull Request] --> B[GitHub Action: terraform-plan.yml]
-    B --> C[Security Scan Checkov]
-    B --> D[Cost Estimation Infracost]
-    B --> E[Terraform Plan]
-
-    subgraph CI_Workflow[CI Workflow on Pull Request]
-        C --> F[Posts SARIF results]
-        D --> F
-        E --> F[PR Comments for Review]
-    end
-
-    F --> G[Team Reviews & Approves PR]
-    G --> H[Merge to main]
-
-    H --> I[GitHub Action: terraform-apply.yml]
-
-    subgraph CD_Workflow[CD Workflow on Merge to main]
-        I --> J[Wait for Manual Approval]
-        J --> K[Terraform Apply]
-        K --> L[AWS Infrastructure Deployed]
-    end
-
-    %% Colors
-    style A fill:#f2f2f2,stroke:#555,stroke-width:1px,color:#000
-    style B fill:#fdd835,stroke:#f57f17,stroke-width:2px,color:#000
-    style C fill:#ef5350,stroke:#c62828,color:#fff
-    style D fill:#42a5f5,stroke:#1565c0,color:#fff
-    style E fill:#66bb6a,stroke:#2e7d32,color:#fff
-    style F fill:#d1c4e9,stroke:#512da8,color:#000
-    style G fill:#ffb74d,stroke:#ef6c00,color:#000
-    style H fill:#a1887f,stroke:#5d4037,color:#fff
-    style I fill:#fdd835,stroke:#f57f17,color:#000
-    style J fill:#90caf9,stroke:#1976d2,color:#000
-    style K fill:#81c784,stroke:#388e3c,color:#000
-    style L fill:#26a69a,stroke:#004d40,color:#fff
-    style CI_Workflow fill:#ede7f6,stroke:#7e57c2,stroke-width:1px,color:#000
-    style CD_Workflow fill:#e0f2f1,stroke:#26a69a,stroke-width:1px,color:#000
-```
-
 [Back to Home](/)
 
 ---
